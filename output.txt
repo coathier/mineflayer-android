@@ -1,0 +1,2949 @@
+Connecting to play.minecadia.com:25565 controlled by coatier on 1.8.
+[msa] First time signing in. Please authenticate now:
+To sign in, use a web browser to open the page https://www.microsoft.com/link and enter the code 87N5VJ6K to authenticate.
+[msa] Signed in with Microsoft
+Coathe has joined the server!
+chat-------------
+DISCORD
+undefined
+ChatMessage {
+  json: { extra: [ ' ', [Object], [Object], [Object] ], text: '' },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [MessageBuilder],
+      warn: [Function],
+      text: ' ',
+      extra: [],
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '► ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'DISCORD: ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gold'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'https://discord.gg/minecadia',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'yellow',
+      clickEvent: [Object]
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+https://discord.gg/minecadia
+chat-------------
+NEWS
+undefined
+ChatMessage {
+  json: { extra: [ ' ', [Object], [Object], [Object] ], text: '' },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [MessageBuilder],
+      warn: [Function],
+      text: ' ',
+      extra: [],
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '► ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'NEWS: ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gold'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'https://minecadia.com',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'yellow',
+      clickEvent: [Object]
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+https://minecadia.com
+Coathe has joined the server!
+chat-------------
+Gold
+undefined
+ChatMessage {
+  json: { extra: [ [Object], [Object], [Object] ], text: '' },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Gold ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'yellow'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '» ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'You have free gold available for logging in today! Reach a higher streak to earn a higher amount of gold (and rewards)! (/gold shop)',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+You have free gold available for logging in today! Reach a higher streak to earn a higher amount of gold (and rewards)! (/gold shop)
+chat-------------
+Nova
+undefined
+ChatMessage {
+  json: { extra: [ [Object], '', [Object] ], text: '' },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8[§f***destiny§f§8] §8§l<§d§lNova§8§l> §5§5Z_E_Y_H§r§8 [§c§k!§4§lSCREAM§c§k!§8] §8»§r ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'wagerduel 4m',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: null,
+      reset: true,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+Z_E_Y_H [!SCREAM!] » wagerduel 4m
+chat-------------
+Duels
+undefined
+ChatMessage {
+  json: {
+    extra: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    text: ''
+  },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Duels ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'red'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '» ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Solar',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'shiisey',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'has defeated ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Nova',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'light_purple'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'HooksWGirls',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_purple'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'in a ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Money Wager ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'red'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'duel for an amount of ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '$6,000,000.00',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'green'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '!',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+<Solar> shiisey has defeated <Nova> HooksWGirls in a Money Wager duel for an amount of $6,000,000.00!
+chat-------------
+Nems
+undefined
+ChatMessage {
+  json: { extra: [ [Object], [Object], [Object], [Object] ], text: '' },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8[§f**Nems§f§8] §8§l<§e§lD§6§lI§e§lV§6§lI§e§lN§6§lE',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§6§l●7',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8§l> §e§eCadiaRolls§r §8»§r ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§bbuying shillings pet /selling good spawn claim /DM ME',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua',
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+<DIVINE●7> CadiaRolls » buying shillings pet /selling good spawn claim /DM ME
+chat-------------
+Challenges
+undefined
+ChatMessage {
+  json: {
+    extra: [ [Object], [Object], [Object], [Object], [Object] ],
+    text: ''
+  },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Challenges ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gold'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '» ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'The ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Zombie Slayer ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'yellow'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'challenge is still running! (/challenges)',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+The Zombie Slayer challenge is still running! (/challenges)
+chat-------------
+Member
+undefined
+ChatMessage {
+  json: {
+    extra: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    text: ''
+  },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Member',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Coatier',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' -> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'me',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'beeans',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+Coatier -> me> beeans
+chat-------------
+Celestial
+undefined
+ChatMessage {
+  json: { extra: [ [Object], '', [Object] ], text: '' },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8[§f**Dvce§f§8] §8§l<§b§lCelestial§8§l> §3§3AFKMachine01§r §8»§r ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'buying shilling pets dm me!!!!!',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: null,
+      reset: true,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+AFKMachine01 » buying shilling pets dm me!!!!!
+chat-------------
+Member
+undefined
+ChatMessage {
+  json: {
+    extra: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    text: ''
+  },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Member',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Coatier',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' -> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'me',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'man how are you doing',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+Coatier -> me> man how are you doing
+chat-------------
+DIVINE
+undefined
+ChatMessage {
+  json: { extra: [ [Object], '', [Object] ], text: '' },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8[§f***TurksLine§f§8] §8§l<§e§lD§6§lI§e§lV§6§lI§e§lN§6§lE§8§l> §e§eRoesGG§r§8 [§c§k!§4§lSCREAM§c§k!§8] §8»§r ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§bselling 1b for bc / selling 8l phantom set for bc',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua',
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+RoesGG [!SCREAM!] » selling 1b for bc / selling 8l phantom set for bc
+chat-------------
+DIVINE
+undefined
+ChatMessage {
+  json: { extra: [ [Object], '', [Object] ], text: '' },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8[§f**askdaskd§f§8] §8§l<§e§lD§6§lI§e§lV§6§lI§e§lN§6§lE§8§l> §e§eEdilsin§r§8 [§6§k!§e§lTHANKSGIVING22§6§k!§8] §8»§r ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'SELLING 8L PHANTOM WITH WEP / SELLING 120M IGM',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: null,
+      reset: true,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+Edilsin [!THANKSGIVING22!] » SELLING 8L PHANTOM WITH WEP / SELLING 120M IGM
+chat-------------
+Alert
+undefined
+ChatMessage {
+  json: {
+    extra: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ],
+    text: ''
+  },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '[',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Alert',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_red'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '] ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '!',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: true,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'F',
+      bold: true,
+      italic: undefined,
+      underlined: true,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'R',
+      bold: true,
+      italic: undefined,
+      underlined: true,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'O',
+      bold: true,
+      italic: undefined,
+      underlined: true,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'S',
+      bold: true,
+      italic: undefined,
+      underlined: true,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'T',
+      bold: true,
+      italic: undefined,
+      underlined: true,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Y',
+      bold: true,
+      italic: undefined,
+      underlined: true,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'H',
+      bold: true,
+      italic: undefined,
+      underlined: true,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Y',
+      bold: true,
+      italic: undefined,
+      underlined: true,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'P',
+      bold: true,
+      italic: undefined,
+      underlined: true,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'E',
+      bold: true,
+      italic: undefined,
+      underlined: true,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'B',
+      bold: true,
+      italic: undefined,
+      underlined: true,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'O',
+      bold: true,
+      italic: undefined,
+      underlined: true,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'X',
+      bold: true,
+      italic: undefined,
+      underlined: true,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '!',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: true,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'has been released on our store! ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'https://store.minecadia.com/category/hypeboxes',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua',
+      clickEvent: [Object]
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+!FROSTY HYPEBOX! has been released on our store! https://store.minecadia.com/category/hypeboxes
+chat-------------
+Flip
+undefined
+ChatMessage {
+  json: {
+    extra: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ],
+    text: ''
+  },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Coin Flip ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'green'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '» ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'D',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'yellow'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'I',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gold'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'V',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'yellow'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'I',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gold'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'N',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'yellow'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'E',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gold'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Repriced',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'yellow'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' (H) has defeated ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Nova',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'light_purple'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'HooksWGirls',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_purple'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' (T) in a wager for an amount of ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '$50,000,000.00',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'green'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '.',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+<DIVINE> Repriced (H) has defeated <Nova> HooksWGirls (T) in a wager for an amount of $50,000,000.00.
+chat-------------
+Nems
+undefined
+ChatMessage {
+  json: { extra: [ [Object], [Object], [Object], [Object] ], text: '' },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8[§f**Nems§f§8] §8§l<§e§lD§6§lI§e§lV§6§lI§e§lN§6§lE',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§6§l●7',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8§l> §e§eCadiaRolls§r §8»§r ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§bbuying shillings pet /selling good spawn claim /DM ME',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua',
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+<DIVINE●7> CadiaRolls » buying shillings pet /selling good spawn claim /DM ME
+chat-------------
+DIVINE
+undefined
+ChatMessage {
+  json: { extra: [ [Object], '', [Object] ], text: '' },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8[§f**askdaskd§f§8] §8§l<§e§lD§6§lI§e§lV§6§lI§e§lN§6§lE§8§l> §e§eEdilsin§r§8 [§6§k!§e§lTHANKSGIVING22§6§k!§8] §8»§r ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'SELLING 8L PHANTOM WITH WEP / SELLING 120M IGM',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: null,
+      reset: true,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+Edilsin [!THANKSGIVING22!] » SELLING 8L PHANTOM WITH WEP / SELLING 120M IGM
+chat-------------
+Member
+undefined
+ChatMessage {
+  json: {
+    extra: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    text: ''
+  },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Member',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Coatier',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' -> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'me',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'its been such a long time since we last talked',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+Coatier -> me> its been such a long time since we last talked
+chat-------------
+Duels
+undefined
+ChatMessage {
+  json: {
+    extra: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    text: ''
+  },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Duels ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'red'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '» ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Celestial',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'informxd',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'has defeated ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Celestial',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Release_zZ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'in a ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Money Wager ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'red'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'duel for an amount of ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '$8,000,000.00',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'green'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '!',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+<Celestial> informxd has defeated <Celestial> Release_zZ in a Money Wager duel for an amount of $8,000,000.00!
+chat-------------
+Nova
+undefined
+ChatMessage {
+  json: {
+    extra: [
+      [Object], '',
+      [Object], ' ',
+      [Object], ' ',
+      [Object], ' ',
+      [Object], ' ',
+      [Object], ' '
+    ],
+    text: ''
+  },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8[§f***DgdBednite§f§8] §8§l<§d§lNova§8§l> §5§5Xristow§r§8 [§c§k!§4§lSCREAM§c§k!§8] §8»§r ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8» §eIron Golem §fSpawner §8«',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [MessageBuilder],
+      warn: [Function],
+      text: ' ',
+      extra: [],
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'in',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: null,
+      reset: true,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [MessageBuilder],
+      warn: [Function],
+      text: ' ',
+      extra: [],
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'ah',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: null,
+      reset: true,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [MessageBuilder],
+      warn: [Function],
+      text: ' ',
+      extra: [],
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'for',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: null,
+      reset: true,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [MessageBuilder],
+      warn: [Function],
+      text: ' ',
+      extra: [],
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '2.2m',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: null,
+      reset: true,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [MessageBuilder],
+      warn: [Function],
+      text: ' ',
+      extra: [],
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+Xristow [!SCREAM!] » » Iron Golem Spawner « in ah for 2.2m 
+chat-------------
+Nems
+undefined
+ChatMessage {
+  json: { extra: [ [Object], [Object], [Object], [Object] ], text: '' },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8[§f**Nems§f§8] §8§l<§e§lD§6§lI§e§lV§6§lI§e§lN§6§lE',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§6§l●7',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8§l> §e§eCadiaRolls§r §8»§r ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§bbuying shillings pet /selling good spawn claim /DM ME',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua',
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+<DIVINE●7> CadiaRolls » buying shillings pet /selling good spawn claim /DM ME
+chat-------------
+46
+undefined
+ChatMessage {
+  json: {
+    extra: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    text: ''
+  },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'avff',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'red'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '[46] ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_red'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'murders ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'yellow'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'GrPowImaSkipTown',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'red'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '[14] ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_red'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'using ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'yellow'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Foam Noodle',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'yellow'
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+murders GrPowImaSkipTown[14] using Foam Noodle
+chat-------------
+Duels
+undefined
+ChatMessage {
+  json: {
+    extra: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    text: ''
+  },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Duels ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'red'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '» ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Celestial',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Liboe',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'has defeated ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Nova',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'light_purple'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Z_E_Y_H',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_purple'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'in a ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Money Wager ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'red'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'duel for an amount of ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '$8,000,000.00',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'green'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '!',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+<Celestial> Liboe has defeated <Nova> Z_E_Y_H in a Money Wager duel for an amount of $8,000,000.00!
+chat-------------
+Member
+undefined
+ChatMessage {
+  json: {
+    extra: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    text: ''
+  },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '<',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Member',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'Coatier',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'gray'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: ' -> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'me',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '> ',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'dark_aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: 'bye then',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+Coatier -> me> bye then
+chat-------------
+DIVINE
+undefined
+ChatMessage {
+  json: { extra: [ [Object], '', [Object] ], text: '' },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§8[§f***TurksLine§f§8] §8§l<§e§lD§6§lI§e§lV§6§lI§e§lN§6§lE§8§l> §e§eRoesGG§r§8 [§c§k!§4§lSCREAM§c§k!§8] §8»§r ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined,
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: undefined
+    },
+    ChatMessage {
+      json: [Object],
+      warn: [Function],
+      text: '§bselling 1b for bc / selling 8l phantom set for bc',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua',
+      clickEvent: [Object],
+      hoverEvent: [Object]
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+RoesGG [!SCREAM!] » selling 1b for bc / selling 8l phantom set for bc

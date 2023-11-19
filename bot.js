@@ -37,6 +37,7 @@ function createBot(options) {
     })
 
     bot.on('chat', (username, message, translate, jsonMsg) => {
+        console.log('chat-------------')
         console.log(username)
         console.log(translate)
         console.log(jsonMsg)
@@ -44,6 +45,7 @@ function createBot(options) {
     })
 
     bot.on('whisper', (username, message, translate, jsonMsg) => {
+        console.log('whisper------------')
         console.log(username)
         console.log(translate)
         console.log(jsonMsg)
