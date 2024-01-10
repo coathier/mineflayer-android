@@ -35,3 +35,5 @@ computer which means it can run at all times.
 >
 >>Unknown Computer
 >>Minecraft Server
+
+How I would have to make it for now is that we setup a simple client that can connect with a server that directly reads messages from the client and interprets them as commands. Later we could add a command to connect the server through a proxy. 

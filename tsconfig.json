@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonJS",
+    "target": "es6",
+    "strictNullChecks": true
+  },
+  "files": [
+    "node_modues"
+  ]
+}
