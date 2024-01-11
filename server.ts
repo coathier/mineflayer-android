@@ -1,6 +1,17 @@
 import * as net from 'net';
 import * as mineflayer from 'mineflayer';
 
+let consoleOutput: string[] = [];
+console.warn = (message: any) => {
+  consoleOutput.push(message.toString());
+};
+console.error = (message: any) => {
+  consoleOutput.push(message.toString());
+};
+console.info = (message: any) => {
+  consoleOutput.push(message.toString());
+};
+
 class BotServer {
   private server: net.Server;
   private bot?: mineflayer.Bot;
@@ -39,7 +50,6 @@ class BotServer {
     });
 
     if (this.bot) {
-      this.bot.removeAllListeners();
       this.bindEvents(this.bot, socket);
     }
   }
@@ -53,10 +63,10 @@ class BotServer {
         host: buffer[2],
         port: Number(buffer[3]),
         version: buffer[4],
-        auth: 'offline',
+        auth: 'microsoft',
       };
 
-      this.bot = await this.connectBot(options, socket);
+      this.bot = this.connectBot(options, socket);
 
     } else if (buffer[0] === 'say') {
       if (!this.bot) throw new Error('Bot is not connected.');
@@ -76,7 +86,7 @@ class BotServer {
     } else if (buffer[0] === 'inventory') {
       if (!this.bot) throw new Error('Bot is not connected.');
 
-      let items : String[] = []
+      let items : string[] = []
       this.bot.inventory.items().forEach((item) => {
         items.push(`${item.displayName}: ${item.count}`)
       });
@@ -87,14 +97,18 @@ class BotServer {
     }
   }
 
-  private async connectBot(options: mineflayer.BotOptions, socket: net.Socket): Promise<mineflayer.Bot> {
+  private connectBot(options: mineflayer.BotOptions, socket: net.Socket): mineflayer.Bot {
     socket.write('Attempting to connect...');
+
     const bot = mineflayer.createBot(options);
-    await this.bindEvents(bot, socket);
+
+    socket.write(consoleOutput.join(' \n'));
+
+    this.bindEvents(bot, socket);
     return bot;
   }
 
-  private async bindEvents(bot: mineflayer.Bot, socket: net.Socket) {
+  private bindEvents(bot: mineflayer.Bot, socket: net.Socket) {
     bot.on('login', () => {
       socket.write(`${bot.username} has logged in!`);
     });
@@ -104,11 +118,11 @@ class BotServer {
       // bot.chat('/joinqueue factions-pirate');
     });
 
-    // bot.on('entityHurt', (entity) => {
-    //   if (entity.id === bot.entity.id) {
-    //     socket.write(`Bot took damage, health: ${bot.health.toString()}`);
-    //   }
-    // });
+    bot.on('entityHurt', (entity) => {
+      if (entity.id === bot.entity.id) {
+        socket.write(`${bot.username} took damage, health: ${bot.health.toString()}`);
+      }
+    });
 
     bot.on('error', (err) => {
       socket.write(`Error: ${err}`);
