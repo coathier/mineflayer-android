@@ -89,7 +89,11 @@ class BotServer {
       this.bot.inventory.items().forEach((item) => {
         items.push(`${item.displayName}: ${item.count}`)
       });
-      socket.write(items.join(', ').toString());
+      if (items.length == 0) {
+        socket.write('Empty inventory'); 
+      } else {
+        socket.write(items.join(', ').toString());
+      }
 
     } else {
       socket.write('Valid commands are: connect, say, disconnect, inventory');

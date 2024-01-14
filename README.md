@@ -14,10 +14,10 @@ $ ts-node server.ts
 
 ### Running
 Through the TCP client you can sent the server the following messages:
-* connect <username> <ip> <port> <version> (Write 1.8, don't write 1.8.9)
-* disconnect Disconnects the bot the the server if it's connected
-* say <message> Bot says the message in the Minecraft chat (also commands)
-* inventory This write all the items the bot has in its inventory.
+* ```console connect <username> <ip> <port> <version>``` (Write 1.8, don't write 1.8.9)
+* ```console disconnect``` Disconnects the bot the the server if it's connected
+* ```console say <message>``` Bot says the message in the Minecraft chat (also commands)
+* ```console inventory``` This write all the items the bot has in its inventory.
 
 ## Contribute
 If you want to make any changes or improvements and feel that you have use for this application feel free to contribute. 
