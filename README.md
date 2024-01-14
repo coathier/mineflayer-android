@@ -1,4 +1,6 @@
-Firsly, a proxy is simply something that reroutes your internet traffic and 
+# Mineflayer-Android
+**You don't actually have to read this it was mostly for development as planning and understanding**  
+Firstly, a proxy is simply something that reroutes your internet traffic and 
 masks your IP address conceiving itself as the endpoint. A proxy means that you 
 are running the Minecraft client on your local computer and shuting your 
 computer of would mean that the bot would disconnect.
