@@ -22,7 +22,7 @@ class BotServer {
 
   private async handleConnection(socket: net.Socket) {
     console.log('A new connection has been established.');
-    socket.write('Connection Established.\nValid commands are: connect, say, disconnect, inventory, exit');
+    socket.write('Connection Established.\nValid commands are: connect, say, disconnect, inventory');
 
     socket.on('data', async (chunk) => {
       const buffer = chunk.toString().split(' ');
@@ -92,7 +92,7 @@ class BotServer {
       socket.write(items.join(', ').toString());
 
     } else {
-      socket.write('Valid commands are: connect, say, disconnect, inventory, exit');
+      socket.write('Valid commands are: connect, say, disconnect, inventory');
     }
   }
 
