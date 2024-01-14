@@ -1,5 +1,42 @@
-# Mineflayer-Android
-**You don't actually have to read this it was mostly for development as planning and understanding**  
+# mineflayer-android
+This is a Minecraft AFK client that you can run on a remote computer so you don't have to keep your own computer on.
+
+## Usage
+At this stage the server listens 4639. Don't forget that you would need to open the firewall and possibly portforward if you want to run this on a remote server/computer.
+
+You will also need a TCP client to talk to the server if you actually want to use it. I have made a command line TCP client, if you would like to use it go [here](https://github.com/coathier/tcp-cli).
+
+### Starting
+```console
+$ npm install
+$ ts-node server.ts
+```
+
+### Running
+Through the TCP client you can sent the server the following messages:
+* connect <username> <ip> <port> <version> (Write 1.8, don't write 1.8.9)
+* disconnect Disconnects the bot the the server if it's connected
+* say <message> Bot says the message in the Minecraft chat (also commands)
+* inventory This write all the items the bot has in its inventory.
+
+## Contribute
+If you want to make any changes or improvements and feel that you have use for this application feel free to contribute. 
+
+### Needed Improvements
+I believe that it still have some issues especially when the TCP client disconnect and reconnect. Some events might not be set or unset etc.
+
+Some more error handling could be done and also so it automatically restarts if need be.
+
+There's quite a big gap insecurity not for the Minecraft account but for the server itself because at the moment anybody could connect to it. Maybe there's a way to make the server only listen for a certain ip or just implement some password authentication.
+
+I don't know about encryption and such but that may be something that is needed.
+
+### Additional Ideas
+* Some sort of plugin system so you can load more actions/commands for the bot
+* Make it be able to support/run multiple bot's at the same time
+
+## Planning
+**You don't actually have to read this it was mostly for development as planning and understanding.**  
 Firstly, a proxy is simply something that reroutes your internet traffic and 
 masks your IP address conceiving itself as the endpoint. A proxy means that you 
 are running the Minecraft client on your local computer and shuting your 
