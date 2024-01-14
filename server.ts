@@ -1,15 +1,8 @@
 import * as net from 'net';
 import * as mineflayer from 'mineflayer';
 
-let consoleOutput: string[] = [];
-console.warn = (message: any) => {
-  consoleOutput.push(message.toString());
-};
-console.error = (message: any) => {
-  consoleOutput.push(message.toString());
-};
 console.info = (message: any) => {
-  consoleOutput.push(message.toString());
+  console.log(`Info: ${message}`)
 };
 
 class BotServer {
@@ -48,6 +41,12 @@ class BotServer {
     socket.on('error', (err) => {
       socket.write(`Error: ${err}`);
     });
+
+    /* This is needed for first time login when the createBot command is
+       called it uses console.info to print neccesary login link and code */
+    console.info = (message: any) => {
+      socket.write(message);
+    };
 
     if (this.bot) {
       this.bindEvents(this.bot, socket);
@@ -101,8 +100,6 @@ class BotServer {
     socket.write('Attempting to connect...');
 
     const bot = mineflayer.createBot(options);
-
-    socket.write(consoleOutput.join(' \n'));
 
     this.bindEvents(bot, socket);
     return bot;
