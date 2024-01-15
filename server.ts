@@ -5,7 +5,7 @@ class BotServer {
   private server: net.Server;
   private bot?: mineflayer.Bot;
 
-  constructor(private port: number) {
+  constructor(private port: number, private ip?: string) {
     this.server = net.createServer();
     this.server.on('connection', this.handleConnection.bind(this));
   }
@@ -17,6 +17,11 @@ class BotServer {
   }
 
   private handleConnection(socket: net.Socket) {
+    if (this.ip && !socket.remoteAddress?.endsWith(this.ip)) {
+      socket.end();
+      return;
+    }
+
     console.log('A new connection has been established.');
     socket.write('Connection Established.\nValid commands are: connect, say, disconnect, inventory, help\n');
 
@@ -94,7 +99,7 @@ class BotServer {
       if (items.length == 0) {
         socket.write(`${this.bot.username}s inventory is empty\n`); 
       } else {
-        socket.write(items.join(', ').toString());
+        socket.write(items.join(', ').toString() + '\n');
       }
 
     } else if (buffer[0] == 'help'){
@@ -137,5 +142,6 @@ class BotServer {
 }
 
 const port = 4639;
-const botServer = new BotServer(port);
+const ip = process.argv[2];
+const botServer = new BotServer(port, ip);
 botServer.start();
