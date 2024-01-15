@@ -4,7 +4,7 @@ This is a Minecraft AFK client that you can run on a remote computer so you don'
 ## Usage
 At this stage the server listens 4639. Don't forget that you would need to open the firewall and possibly portforward if you want to run this on a remote server/computer.
 
-You will also need a TCP client to talk to the server if you actually want to use it. I have made a command line TCP client, if you would like to use it go [here](https://github.com/coathier/tcp-cli).
+You will also need a TCP client to talk to the server if you actually want to use it. I have made a command line TCP client, if you would like to use it go [here](https://github.com/coathier/tcp-cli). However, I would highly advise to use a mobile client like [TCP Client](https://play.google.com/store/apps/details?id=com.hardcodedjoy.tcpclient&pli=1) by HARDCODED JOY.
 
 ### Starting
 Requires [node](https://nodejs.org/en/download) and [ts-node](https://www.npmjs.com/package/ts-node#installation)
