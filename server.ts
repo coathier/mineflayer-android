@@ -18,7 +18,7 @@ class BotServer {
 
   private handleConnection(socket: net.Socket) {
     console.log('A new connection has been established.');
-    socket.write('Connection Established.\nValid commands are: connect, say, disconnect, inventory, help');
+    socket.write('Connection Established.\nValid commands are: connect, say, disconnect, inventory, help\n');
 
     socket.on('data', async (chunk) => {
       const buffer = chunk.toString().replace(/\n/g, "").split(' ');
