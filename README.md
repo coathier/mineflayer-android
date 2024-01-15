@@ -7,6 +7,7 @@ At this stage the server listens 4639. Don't forget that you would need to open 
 You will also need a TCP client to talk to the server if you actually want to use it. I have made a command line TCP client, if you would like to use it go [here](https://github.com/coathier/tcp-cli).
 
 ### Starting
+Requires [node](https://nodejs.org/en/download) and [ts-node](https://www.npmjs.com/package/ts-node#installation)
 ```console
 $ npm install
 $ ts-node server.ts
