@@ -2,9 +2,9 @@
 This is a Minecraft AFK client that you can run on a remote computer so you don't have to keep your own computer on.
 
 ## Usage
-At this stage the server listens 4639. Don't forget that you would need to open the firewall and possibly portforward if you want to run this on a remote server/computer.
+At currently the server listens to port 4639. Don't forget that you would need to open the firewall and possibly portforward if you want to run this on a remote server/computer.
 
-You will also need a TCP client to talk to the server if you actually want to use it. I have made a command line TCP client, if you would like to use it go [here](https://github.com/coathier/tcp-cli). However, I would highly advise to use a mobile client like [TCP Client](https://play.google.com/store/apps/details?id=com.hardcodedjoy.tcpclient&pli=1) by HARDCODED JOY.
+You will also need a TCP client to talk to the server if you actually want to use it. I have made a command line TCP client, if you would like to use it go [here](https://github.com/coathier/tcp-cli). However, I would highly advise you to use a mobile client like [TCP Client](https://play.google.com/store/apps/details?id=com.hardcodedjoy.tcpclient&pli=1).
 
 ### Starting
 Requires [node](https://nodejs.org/en/download) and [ts-node](https://www.npmjs.com/package/ts-node#installation)
@@ -19,10 +19,11 @@ $ ts-node server.ts <ip>
 
 ### Running
 Through the TCP client you can sent the server the following messages:
-* ```connect <username> <ip> <port> <version>``` (Write 1.8, don't write 1.8.9)
+* ```connect <username> <ip> <port> <version>``` Connects the bot with specified username to server by given ip etc.
 * ```disconnect``` Disconnects the bot the the server if it's connected
-* ```say <message>``` Bot says the message in the Minecraft chat (also commands)
-* ```inventory``` This write all the items the bot has in its inventory.
+* ```say <message>``` Bot says the message in the Minecraft chat, you can also say commands (say /whisper user secret)
+* ```inventory``` Writes all the items the bot has in its inventory.
+* ```help``` Writes all the valid commands which are also given here.
 
 ## Contribute
 If you want to make any changes or improvements and feel that you have use for this application feel free to contribute. 
@@ -80,4 +81,10 @@ computer which means it can run at all times.
 >>Unknown Computer
 >>Minecraft Server
 
-How I would have to make it for now is that we setup a simple client that can connect with a server that directly reads messages from the client and interprets them as commands. Later we could add a command to connect the server through a proxy. 
+How I would have to make it for now is that we setup a simple client that can 
+connect with a server that directly reads messages from the client and interprets 
+them as commands. Later we could add a command to connect the server through a proxy. 
+
+In reality people could just ssh into a server and run a tmux session or something but if you
+set up a server for someone else, I think that it's easier for them (non technical people) to just 
+download a TCP client on their phone, enter a IP address, a port and be done.
