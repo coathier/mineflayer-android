@@ -12,6 +12,10 @@ Requires [node](https://nodejs.org/en/download) and [ts-node](https://www.npmjs.
 $ npm install
 $ ts-node server.ts
 ```
+or, if you want to specify who can access the server/bot
+```console
+$ ts-node server.ts <ip>
+```
 
 ### Running
 Through the TCP client you can sent the server the following messages:
