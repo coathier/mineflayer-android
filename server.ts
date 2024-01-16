@@ -1,24 +1,28 @@
 import * as net from 'net';
 import * as mineflayer from 'mineflayer';
 
-function bindEvents(bot: mineflayer.Bot, socket: net.Socket) {
-  bot.on('login', () => {
-    socket.write(`${bot.username} has logged in!\n`);
+function bindEvents(botServer: BotServer, socket: net.Socket) {
+  if (!botServer.bot) {
+    return;
+  }
+  botServer.bot.on('login', () => {
+    socket.write(`${botServer.bot?.username} has logged in!\n`);
   });
 
-  bot.on('spawn', async () => {
-    socket.write(`${bot.username} has spawned!\n`);
+  botServer.bot.on('spawn', async () => {
+    socket.write(`${botServer.bot?.username} has spawned!\n`);
   });
 
-  bot.on('error', (err) => {
+  botServer.bot.on('error', (err) => {
     socket.write(`Error: ${err}\n`);
+    botServer.bot = undefined;
   });
 
-  bot.on('end', (reason) => {
+  botServer.bot.on('end', (reason) => {
     socket.write(`Ended: ${reason}\n`);
   });
 
-  bot.on('kicked', (reason) => {
+  botServer.bot.on('kicked', (reason) => {
     socket.write(`Kicked for: ${reason}\n`);
   });
 }
@@ -59,6 +63,11 @@ class DisconnectCommand implements Command {
 class ConnectCommand implements Command {
   invocation = 'connect';
   execute(botServer: BotServer, socket: net.Socket, parameters: string[]): void {
+    if (botServer.bot) {
+      socket.write('Bot is already connected\n');
+      return;
+    }
+
     if (parameters.length !== 5) {
       socket.write('Usage: connect <username> <ip> <port> <version>\n');
       return;
@@ -74,9 +83,12 @@ class ConnectCommand implements Command {
 
     socket.write('Attempting to connect\n');
 
-    botServer.bot = mineflayer.createBot(options);
-
-    bindEvents(botServer.bot, socket);
+    try {
+      botServer.bot = mineflayer.createBot(options);
+      bindEvents(botServer, socket);
+    } catch {
+      botServer.bot = undefined;
+    }
   }
 }
 
@@ -145,6 +157,7 @@ class BotServer {
 
     socket.on('end', () => {
       console.log('Closing connection with the client');
+      this.bot = undefined;
     });
 
     socket.on('error', (err) => {
@@ -160,7 +173,7 @@ class BotServer {
     };
 
     if (this.bot) {
-      bindEvents(this.bot, socket);
+      bindEvents(botServer, socket);
     }
   }
 
