@@ -20,10 +20,12 @@ function bindEvents(botServer: BotServer, socket: net.Socket) {
 
   botServer.bot.on('end', (reason) => {
     socket.write(`Ended: ${reason}\n`);
+    botServer.bot = undefined;
   });
 
   botServer.bot.on('kicked', (reason) => {
     socket.write(`Kicked for: ${reason}\n`);
+    botServer.bot = undefined;
   });
 }
 
@@ -57,6 +59,7 @@ class DisconnectCommand implements Command {
     }
 
     botServer.bot.quit();
+    botServer.bot = undefined;
   }
 }
 
@@ -157,7 +160,6 @@ class BotServer {
 
     socket.on('end', () => {
       console.log('Closing connection with the client');
-      this.bot = undefined;
     });
 
     socket.on('error', (err) => {
