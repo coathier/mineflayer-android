@@ -24,6 +24,7 @@ Through the TCP client you can sent the server the following messages:
 * ```say <message>``` Bot says the message in the Minecraft chat, you can also say commands (say /whisper user secret)
 * ```inventory``` Writes all the items the bot has in its inventory.
 * ```help``` Writes all the valid commands which are also given here.
+
 Don't forget that if you're trying to connect to a non offline server you will need to read the output of the program
 and verify the microsoft login the first time you try to connect.
 
